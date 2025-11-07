@@ -8,7 +8,7 @@ Team Size : 3
 
 Team Leader : Adithyan A J 
 
-Team member : dhyshyanth S P
+Team member : dhushyanth S P
 
 Team member : Jagathesh R
 
